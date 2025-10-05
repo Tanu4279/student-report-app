@@ -43,3 +43,7 @@ streamlit run student_report_app.py
 - Add user authentication for multiple users/admin access.
 - Implement charts and analytics for class performance visualization.
 
+## Access the App
+Experience the app without setup: [Student Report Card System](https://student-report-app.streamlit.app/)
+
+
