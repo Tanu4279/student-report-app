@@ -38,8 +38,8 @@ streamlit run student_report_app.py
 4. Open the displayed local URL in your browser.
 ```
 
-⚡ Future Improvements
-Switch CSV to a database like MySQL for better scalability.
-Add user authentication for multiple users/admin access.
-Implement charts and analytics for class performance visualization.
+## ⚡ Future Improvements
+- Switch CSV to a database like MySQL for better scalability.
+- Add user authentication for multiple users/admin access.
+- Implement charts and analytics for class performance visualization.
 
